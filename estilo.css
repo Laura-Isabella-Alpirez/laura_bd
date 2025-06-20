@@ -1,0 +1,60 @@
+@import url('https://fonts.cdnfonts.com/css/dynapuff');
+@import url('https://fonts.cdnfonts.com/css/alexaniri');
+a, h5 {
+    font-family: 'DynaPuff', sans-serif;
+}
+h1 {
+    text-align: center;
+    font-family: 'Alexaniri', sans-serif;
+}
+h2, p {
+    text-align: center;
+    color: #b1477c;
+    font-family: 'DynaPuff', sans-serif;
+}
+.jumbotron {
+    background: #fbd6e5;
+}
+body {
+    background-color: #ffeaf4;
+    margin: 10px;
+}
+th, label {
+    font-family: 'DynaPuff', sans-serif;
+}
+td, input {
+    font-family: 'DynaPuff', sans-serif;                                             
+}
+.navbarBg {
+    background: linear-gradient(#fbb1d2, #f985bc, #f065a3);
+}
+.dropdown-menu {
+    background-color: #f8a9c4;
+    border: none;
+    border-radius: 6px;
+    min-width: 160px;
+    margin-top: 10px;
+}
+.dropdown-menu > a {
+    color: #730f4d;
+    padding: 8px 16px;
+    display: block;
+    text-decoration: none;
+}
+.card {
+    border: 1px solid #ec7aa8;
+    background-color: #ffe2ec;
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+.card-header {
+    font-weight: bold;
+    font-size: 16px;
+    text-align: left;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #d96394;
+}
+.in {
+    background-color: #ffd6e9;
+}
